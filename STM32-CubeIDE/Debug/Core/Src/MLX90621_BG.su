@@ -1,0 +1,10 @@
+MLX90621_BG.c:18:9:readConfig	40	static
+MLX90621_BG.c:29:6:setConfiguration	24	static
+MLX90621_BG.c:74:7:MLX_Init	312	static
+MLX90621_BG.c:140:19:MLX_Read_IT	56	static
+MLX90621_BG.c:178:6:MLX_read	48	static
+MLX90621_BG.c:201:8:Calc_Ta	112	static
+MLX90621_BG.c:222:8:Calc_Vir_Compensated	144	static
+MLX90621_BG.c:273:8:Calc_Alpha_Compensated	112	static
+MLX90621_BG.c:300:8:Calc_Ks4	32	static
+MLX90621_BG.c:307:8:MLX_CalcTemp	112	static
